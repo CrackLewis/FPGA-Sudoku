@@ -12,5 +12,6 @@ a simplified implementation of classic 9x9 sudoku games.
 - Bluetooth serial is nearly impossible to be run on simulation. A more practical approach is to write another program to test your module.
 - Remember to have your project backed up at least once in development. (nvm if you're using Git)
 - GitHub FPGA projects you see (including mine) are not always proper and may contain mistakes ranging from occasional to fatal. Maintain fundamental criticism when you're checking these projects.
+- The project is based on Artix-7 Xilinx FPGA Nexys4 Board. Be sure to check your board standards and modify the constraint file if you want the project implemented on your board.
 
 **Lewis Lee, Tongji University, Shanghai**
