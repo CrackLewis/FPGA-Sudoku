@@ -1,6 +1,11 @@
 # FPGA-Sudoku
 a simplified implementation of classic 9x9 sudoku games.
 
+**supported features:**
+- Puzzle random generation
+- VGA displaying
+- number filling through bluetooth serial debugger tools
+
 **some tips that may help you in completing a simular project:**
 
 - Combinatory logic first, timing logic last.
